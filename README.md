@@ -1,4 +1,4 @@
-<img width="774" height="658" alt="image" src="https://github.com/user-attachments/assets/3b5e97b9-5210-451d-b9fb-3e1126331330" /># 🪄 You-Can-Copy-And-Paste
+# 🪄 You-Can-Copy-And-Paste
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![AHK Version](https://img.shields.io/badge/AutoHotkey-v2.0+-green.svg)
@@ -32,7 +32,7 @@
 2. 双击运行即可，无需安装。
 3. 观察任务栏右下角，出现绿色 "H" (或自定义) 托盘图标即代表运行成功，可以设置休眠/唤醒/退出
 4. 右键图标可进入“设置”面板。
-<img width="774" height="658" alt="image" src="https://github.com/user-attachments/assets/fa3cfc89-956d-4eeb-a17e-8cd9884ba1ac" />
+<img width="474" height="358" alt="image" src="https://github.com/user-attachments/assets/fa3cfc89-956d-4eeb-a17e-8cd9884ba1ac" />
 
 
 ### 方案二：开发者运行源码
