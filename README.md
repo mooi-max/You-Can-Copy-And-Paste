@@ -24,7 +24,7 @@
 
 ### 🌟 v3.0 极简核心版 (推荐，当前最新)
 
-[**⬇️ 点击下载 v3.0 Release 便携版**](https://github.com/mooi-max/you_can_copy_and_paste/releases/latest)
+[**⬇️ 点击下载 v3.0 Release 便携版**](https://github.com/mooi-max/you_can_copy_and_paste/releases/tag/v3.0)
 
 **✨ 核心特点：**
 * **极简单文件**：代码结构化繁为简，无需任何复杂配置，开箱即用（注意：运行 `.exe` 或 `.ahk` 时需确保同级目录下有 `stop.ico` 图标文件）。
@@ -40,7 +40,7 @@
 
 ### ⚙️ v2.0 模块化重装版 (历史经典)
 
-[**⬇️ 点击下载 v2.0 Release 源码包**](https://github.com/mooi-max/you_can_copy_and_paste/releases)
+[**⬇️ 点击下载 v2.0 Release 源码包**](https://github.com/mooi-max/you_can_copy_and_paste/releases/tag/v2.0)
 
 **✨ 核心特点：**
 * **独立 GUI 设置面板**：拥有图形化配置窗口，支持自由设定各项参数，并支持一键开启/关闭“开机自启动”。
