@@ -40,7 +40,7 @@
 
 ### ⚙️ v2.0 模块化重装版 (历史经典)
 
-[**⬇️ 点击下载 v2.0 Release 源码包**](https://github.com/mooi-max/you_can_copy_and_paste/releases/tag/v2.0)
+[**⬇️ 点击下载 v2.0 Release 多功能版**](https://github.com/mooi-max/you_can_copy_and_paste/releases/tag/v2.0)
 
 **✨ 核心特点：**
 * **独立 GUI 设置面板**：拥有图形化配置窗口，支持自由设定各项参数，并支持一键开启/关闭“开机自启动”。
