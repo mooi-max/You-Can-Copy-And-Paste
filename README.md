@@ -3,7 +3,7 @@
 
 # 📋 You-Can-Copy-And-Paste
 
-**打破网页结界，实现真正的复制自由**
+**打破网页结界，实现真正的复制贴贴自由**
 
 ![Version](https://img.shields.io/badge/Version-3.0-blue.svg)
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-v2.0-green.svg)
@@ -13,7 +13,7 @@
 
 ---
 
-# 点击下载
+# ⬇️ 快速下载通道 (开箱即用，免费免安装)
 
 ## **gitcode下载**
 
@@ -23,11 +23,11 @@
 ## **github下载**
 
 * ⬇️[v3.0便携版下载（推荐）](https://github.com/mooi-max/you_can_copy_and_paste/releases/download/v3.0/you-can-copy-and-paste-v3.exe)
-* ⬇️[v2.0多功能版下载](https://github.com/mooi-max/you_can_copy_and_paste/releases/download/v2.0/you-can-copy-and-paste-v2.exe)
+* ⬇️[v2.0多功能版下载]()
 
 ------
 
-### ⚠️ 为什么下载时会有安全警告？
+### 🛡️ 杀毒软件/浏览器误报说明
 
 如果您在下载或打开软件时，遇到了浏览器（如 Edge/Chrome）或杀毒软件的安全拦截提示，请不要担心，这是正常的**“误报”**现象。
 
@@ -43,7 +43,7 @@
 
 ---
 
-## 💡 简介 (About)
+## 💡 项目介绍 (About)
 
 🎯 **专门拯救“网页禁止复制粘贴”的效率神器。**
 
