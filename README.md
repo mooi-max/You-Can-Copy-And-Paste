@@ -17,13 +17,13 @@
 
 ## **gitcode下载**
 
-* ⬇️[v3.0便携版下载](https://gitcode.com/2401_89382898/You-Can-Copy-And-Paste/releases/download/v3.0/you-can-copy-and-paste-v3.exe)
-* ⬇️[v2.0多功能版下载](https://gitcode.com/2401_89382898/You-Can-Copy-And-Paste/releases/download/v2.0/you-can-copy-and-paste-v2.exe)
+* ⬇️[v3.0便携版下载](https://raw.gitcode.com/2401_89382898/you_can_copy_and_paste/archive/refs/heads/v3.0.zip)
+* ⬇️[v2.0多功能版下载](https://raw.gitcode.com/2401_89382898/you_can_copy_and_paste/archive/refs/heads/v2.0.zip)
 
-## **github下载**
+## **github下载（推荐）**
 
-* ⬇️[v3.0便携版下载（推荐）](https://github.com/mooi-max/you_can_copy_and_paste/releases/download/v3.0/you-can-copy-and-paste-v3.exe)
-* ⬇️[v2.0多功能版下载]()
+* ⬇️[v3.0便携版下载（推荐）](https://github.com/mooi-max/You-Can-Copy-And-Paste/archive/refs/tags/v3.0.zip)
+* ⬇️[v2.0多功能版下载](https://github.com/mooi-max/You-Can-Copy-And-Paste/archive/refs/tags/v2.0.zip)
 
 ------
 
@@ -57,7 +57,7 @@
 
 ### 🌟 v3.0 极简核心版 (推荐，当前最新)
 
-[**⬇️  v3.0 Release 便携版**](https://github.com/mooi-max/you_can_copy_and_paste/releases/tag/v3.0)
+[**⬇️  v3.0 Release 便携版**](https://github.com/mooi-max/You-Can-Copy-And-Paste/releases/tag/v3.0)
 
 **✨ 核心特点：**
 
@@ -75,7 +75,7 @@
 
 ### ⚙️ v2.0 模块化重装版 (历史经典)
 
-[**⬇️  v2.0 Release 多功能版**](https://github.com/mooi-max/you_can_copy_and_paste/releases/tag/v2.0)
+[**⬇️  v2.0 Release 多功能版**](https://github.com/mooi-max/You-Can-Copy-And-Paste/releases/tag/v2.0)
 
 **✨ 核心特点：**
 
