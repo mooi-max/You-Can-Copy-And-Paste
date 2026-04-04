@@ -1,5 +1,6 @@
 <div align="center">
 
+
 # 📋 You-Can-Copy-And-Paste
 
 **打破网页结界，实现真正的复制自由**
@@ -16,13 +17,29 @@
 
 ## **gitcode下载**
 
-* ⬇️<a href="https://gitcode.com/2401_89382898/You-Can-Copy-And-Paste/releases/download/v3.0/you-can-copy-and-paste-v3.exe" rel="noreferrer" target="_blank">v3.0便携版下载</a>
-* ⬇️<a href="https://gitcode.com/2401_89382898/You-Can-Copy-And-Paste/releases/download/v2.0/you-can-copy-and-paste-v2.exe" rel="noreferrer" target="_blank">v2.0多功能版下载</a>
+* ⬇️[v3.0便携版下载](https://gitcode.com/2401_89382898/You-Can-Copy-And-Paste/releases/v3.0)
+* ⬇️[v2.0多功能版下载](https://gitcode.com/2401_89382898/You-Can-Copy-And-Paste/releases/v2.0)
 
 ## **github下载**
 
 * ⬇️[v3.0便携版下载](https://github.com/mooi-max/you_can_copy_and_paste/releases/download/v3.0/you-can-copy-and-paste-v3.exe)
 * ⬇️[v2.0多功能版下载](https://github.com/mooi-max/you_can_copy_and_paste/releases/download/v2.0/you-can-copy-and-paste-v2.exe)
+
+------
+
+### ⚠️ 为什么下载时会有安全警告？
+
+如果您在下载或打开软件时，遇到了浏览器（如 Edge/Chrome）或杀毒软件的安全拦截提示，请不要担心，这是正常的**“误报”**现象。
+
+* **为什么会误报？**
+  因为这是一款个人开发者免费提供的效率小工具，没有花昂贵的费用去购买企业级的“数字证书”（相当于软件的电子身份证）。浏览器和系统遇到这种没有“身份证”的全新 `.exe` 程序，出于保护机制，就会习惯性地先拦一下。
+
+* **安全保证：**
+  请放心，**本工具 100% 纯净无毒，没有任何恶意代码！** （可以直接在 GitHub 上查看所有的开源代码）。
+
+* **如何放行？**
+  * **如果是浏览器拦截（如 Edge）：** 把鼠标移到下载警告上，点击右侧的 **“...”** 或 **详情** -> 选择 **“保留”** -> 然后点击 **“显示更多”** -> 选择 **“仍然保留”** 即可正常下载。
+  * **如果是电脑杀毒软件拦截：** 请在拦截弹窗中选择“允许运行”、“添加信任”或“找回文件”即可。
 
 ---
 
