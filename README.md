@@ -17,12 +17,12 @@
 
 ## **gitcode下载**
 
-* ⬇️[v3.0便携版下载](https://gitcode.com/2401_89382898/You-Can-Copy-And-Paste/releases/v3.0)
-* ⬇️[v2.0多功能版下载](https://gitcode.com/2401_89382898/You-Can-Copy-And-Paste/releases/v2.0)
+* ⬇️[v3.0便携版下载](https://gitcode.com/2401_89382898/You-Can-Copy-And-Paste/releases/download/v3.0/you-can-copy-and-paste-v3.exe)
+* ⬇️[v2.0多功能版下载](https://gitcode.com/2401_89382898/You-Can-Copy-And-Paste/releases/download/v2.0/you-can-copy-and-paste-v2.exe)
 
 ## **github下载**
 
-* ⬇️[v3.0便携版下载](https://github.com/mooi-max/you_can_copy_and_paste/releases/download/v3.0/you-can-copy-and-paste-v3.exe)
+* ⬇️[v3.0便携版下载（推荐）](https://github.com/mooi-max/you_can_copy_and_paste/releases/download/v3.0/you-can-copy-and-paste-v3.exe)
 * ⬇️[v2.0多功能版下载](https://github.com/mooi-max/you_can_copy_and_paste/releases/download/v2.0/you-can-copy-and-paste-v2.exe)
 
 ------
