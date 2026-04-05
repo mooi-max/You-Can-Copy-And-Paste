@@ -57,7 +57,7 @@
 
 ### 🌟 v3.0 极简核心版 (推荐，当前最新)
 
-[**⬇️  v3.0 Release 便携版**](https://github.com/mooi-max/You-Can-Copy-And-Paste/releases/tag/v3.0)
+[**⬇️  v3.0 Release 便携版**](https://github.com/mooi-max/You-Can-Copy-And-Paste/releases/tag/v3.1)
 
 **✨ 核心特点：**
 
@@ -75,7 +75,7 @@
 
 ### ⚙️ v2.0 模块化重装版 (历史经典)
 
-[**⬇️  v2.0 Release 多功能版**](https://github.com/mooi-max/You-Can-Copy-And-Paste/releases/tag/v2.0)
+[**⬇️  v2.0 Release 多功能版**](https://github.com/mooi-max/You-Can-Copy-And-Paste/releases/tag/v2.1)
 
 **✨ 核心特点：**
 
